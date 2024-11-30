@@ -1,0 +1,12 @@
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\bin\Debug\P3 Practica 2.exe.config
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\bin\Debug\P3 Practica 2.exe
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\bin\Debug\P3 Practica 2.pdb
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\bin\Debug\P3 Practica 2.xml
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.vbproj.AssemblyReference.cache
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3_Practica_2.Form1.resources
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3_Practica_2.Resources.resources
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.vbproj.GenerateResource.cache
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.vbproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.exe
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.xml
+C:\Users\diego\Documents\ESCUELA\Universidad\5 Cuatrimestre\Aplicaciones IOT\Codigos\P3 Practica 2\P3 Practica 2\P3 Practica 2\obj\Debug\P3 Practica 2.pdb
